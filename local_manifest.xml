@@ -9,11 +9,11 @@
 
      
   <!-- Device Trees -->
-        <project name="device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="aldytos" revision="r" /> 
+        <project name="xdroid_device_ginkgo" path="device/xiaomi/ginkgo" remote="aldytos" revision="r" /> 
         
       
   <!-- Vendor Trees -->
-        <project name="vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="aldytos" revision="r" />
+        <project name="xdroid_vendor_ginkgo" path="vendor/xiaomi/ginkgo" remote="aldytos" revision="r" />
       
        
   <!-- Kernel Trees -->
