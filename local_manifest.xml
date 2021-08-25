@@ -17,7 +17,7 @@
       
        
   <!-- Kernel Trees -->
-        <project name="kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="aldytos" revision="eleven" />
+        <project name="general_kernel_ginkgo" path="kernel/xiaomi/ginkgo" remote="aldytos" revision="11.0" />
         
       
   <!-- Clang & MiuiCamera -->
