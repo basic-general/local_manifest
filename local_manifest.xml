@@ -5,8 +5,10 @@
             fetch="https://github.com/basic-general"/>
           
      <remote name="ArrowOS"
-            fetch="https://github.com/ArrowOS" />      
-
+            fetch="https://github.com/ArrowOS" />   
+          
+     <remote name="Clang"
+            fetch="https://github.com/ThankYouMario" />
      
   <!-- Device Trees -->
         <project name="xdroid_device_ginkgo" path="device/xiaomi/ginkgo" remote="aldytos" revision="r" /> 
