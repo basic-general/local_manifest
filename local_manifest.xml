@@ -21,7 +21,7 @@
         
       
   <!-- Clang & MiuiCamera -->
-        <project name="proton-clang" path="prebuilts/clang/host/linux-x86/clang-proton" remote="aldytos" revision="master" clone-depth="1" />
+        <project path="prebuilts/clang/host/linux-x86/clang-sdllvm" name="proprietary_vendor_qcom_sdclang" remote="Clang" revision="ruby-12" clone-depth="1" />
         <project name="android_vendor_miuicamera" path="vendor/miuicamera" remote="aldytos" revision="arrow-11.0-a3" />
   
  
